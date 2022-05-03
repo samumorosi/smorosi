@@ -1,0 +1,124 @@
+body {
+    background-image: url(./fondo.jpg);
+    position: absolute;
+    width: 2000px;
+    height: 1023px;
+    left: 0px;
+    top: 1px;
+}
+
+nav {
+    position: absolute;
+    width: 58px;
+    height: 40px;
+    left: 1700px;
+    top: 430px;
+    font-family: 'Fjalla One';
+    font-style: none;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;  
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+h1 {
+    position: absolute;
+    width: 162px;
+    height: 80px;
+    left: 800px;
+    top: 0px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #DDA448;
+}
+
+img{
+    position: absolute;
+    width: 550px;
+    height: 700px;
+    left: 1400px;
+    top: 550px;
+}
+
+.menu11 {
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    left: -150px;
+    top: 138px;
+}
+
+h2 {
+    position: absolute;
+    width: 184px;
+    height: 80px;
+    left: 350px;
+    top: 100px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+#fetuccini {
+    position: absolute;
+    width: 442px;
+    height: 124px;
+    left: 464px;
+    top: 250px;
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+h3 {
+    position: absolute;
+    width: 179px;
+    height: 80px;
+    left: 750px;
+    top: 530px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+#lasagna {
+    position: absolute;
+    width: 442px;
+    height: 93px;
+    left: 900px;
+    top: 700px;
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}

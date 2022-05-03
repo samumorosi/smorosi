@@ -1,0 +1,108 @@
+body {
+    background-image: url(./fondo.jpg);
+    position: absolute;
+    width: 2000px;
+    height: 1023px;
+    left: 0px;
+    top: 1px;
+}
+
+.menu2 {
+    position: absolute;
+    width: 572px;
+    height: 549px;
+    left: 1570px;
+    top: 30px;
+}
+
+.menu22 {
+    position: absolute;
+    width: 590px;
+    height: 379px;
+    left: -62px;
+    top: 500px;
+}
+
+h1 {
+    position: absolute;
+    width: 800px;
+    height: 80px;
+    left: 680px;
+    top: 50px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+#spaghetti {
+    position: absolute;
+    width: 442px;
+    height: 124px;
+    left: 1000px;
+    top: 220px;
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+h2 {
+    position: absolute;
+    width: 235px;
+    height: 80px;
+    left: 450px;
+    top: 450px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+#rattatouile {
+    position: absolute;
+    width: 442px;
+    height: 124px;
+    left: 611px;
+    top: 600px;
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+nav {
+    position: absolute;
+    width: 58px;
+    height: 40px;
+    left: 1700px;
+    top: 430px;
+    font-family: 'Fjalla One';
+    font-style: none;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;  
+    text-decoration: none;
+    font-weight: bold;
+    }

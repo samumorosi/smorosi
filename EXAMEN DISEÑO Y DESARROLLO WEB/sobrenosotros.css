@@ -1,0 +1,50 @@
+img {
+    position: absolute;
+    width: 1061px;
+    height: 618px;
+    left: 375px;
+    top: 475px;
+}
+
+body {
+    background-image: url(./fondo.jpg);
+    position: absolute;
+    width: 1225px;
+    height: 929px;
+    left: 0px;
+    top: 1px;
+}
+
+h1 {
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    left: 675px;
+    top: 30px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #DDA448;
+}
+
+p {
+    position: absolute;
+    width: 636px;   
+    height: 200px;
+    left: 600px;
+    top: 175px;
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
